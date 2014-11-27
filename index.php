@@ -1,5 +1,9 @@
 <?php
 
-echo '<h1>Hello world</h1>';
+
+$string = 'Hello world';
+
+echo '<h1>'. $string .'</h1>';
+
 
 ?>
